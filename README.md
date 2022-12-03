@@ -18,10 +18,10 @@ When analyzing the data ....
 ![Latitude vs Wind Speed](images/Fig4.png)
 
 ## Northern Latitude Vs. Max Temperature
-![Northern Latitude vs Temperature](images/Fig5.png)
+![N Lat vs Temperature](images/Fig5.png)
 
 ## Southern Latitude Vs. Max Temperature
-![Southern Latitude vs Temperature](images/Fig6.png)
+![S Lat vs Temperature](images/Fig6.png)
 
 ## Northern Latitude Vs. Humidity
 ![Northern Latitude vs Humidity](images/Fig7.png)
