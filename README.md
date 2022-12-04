@@ -33,13 +33,13 @@ Below are the final visualizations that compare the different latitudes of rando
 ![Northern Hemisphere vs Cloudiness](images/Fig9.PNG)
 
 ## Southern Latitude Vs. Cloudiness
-![Southern Hemisphere vs Cloudiness](images/Fig10.png)
+![Southern Hemisphere vs Cloudiness](images/Fig10.PNG)
 
 ## Northern Latitude Vs. Wind Speed
-![Northern Hemisphere vs Wind Speed](images/Fig11.png)
+![Northern Hemisphere vs Wind Speed](images/Fig11.PNG)
 
 ## Southern Latitude Vs. Wind Speed
-![Southern Hemisphere vs Wind Speed](images/Fig12.png)
+![Southern Hemisphere vs Wind Speed](images/Fig12.PNG)
 
 ## City Map
 Below is a map of all of the randomly generated cities. Each colored dot is a new city and the size of the dot is representative of the city's humidity.
