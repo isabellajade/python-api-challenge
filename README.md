@@ -3,7 +3,7 @@
 For this project I analyzed the weather of nearly 600 randomly generated cities in order to find out if their location could be influencing the cities weather. 
 
 ## Summary
-When analyzing the data ....
+Below are the final visualizations that compare the different latitudes of randomly selected cities with their temperature, humidity, cloudiness, and wind speed. 
 
 ## Latitude Vs Temperature
 ![Latitude vs Temperature](images/Fig1.png)
@@ -18,28 +18,28 @@ When analyzing the data ....
 ![Latitude vs Wind Speed](images/Fig4.png)
 
 ## Northern Latitude Vs. Max Temperature
-![N Lat vs Temperature](images/Fig5.png)
+![Northern Hemisphere vs Temperature](images/Fig5.PNG)
 
 ## Southern Latitude Vs. Max Temperature
-![S Lat vs Temperature](images/Fig6.png)
+![Southern Hemisphere vs Temperature](images/Fig6.PNG)
 
 ## Northern Latitude Vs. Humidity
-![Northern Latitude vs Humidity](images/Fig7.png)
+![Northern Hemisphere vs Humidity](images/Fig7.PNG)
 
 ## Southern Latitude Vs. Humidity
-![Southern Latitude vs Humidity](images/Fig8.png)
+![Southern Hemisphere vs Humidity](images/Fig8.PNG)
 
 ## Northern Latitude Vs. Cloudiness
-![Northern Latitude vs Cloudiness](images/Fig9.png)
+![Northern Hemisphere vs Cloudiness](images/Fig9.PNG)
 
 ## Southern Latitude Vs. Cloudiness
-![Southern Latitude vs Cloudiness](images/Fig10.png)
+![Southern Hemisphere vs Cloudiness](images/Fig10.png)
 
 ## Northern Latitude Vs. Wind Speed
-![Northern Latitude vs Wind Speed](images/Fig11.png)
+![Northern Hemisphere vs Wind Speed](images/Fig11.png)
 
 ## Southern Latitude Vs. Wind Speed
-![Southern Latitude vs Wind Speed](images/Fig12.png)
+![Southern Hemisphere vs Wind Speed](images/Fig12.png)
 
 ## City Map
 Below is a map of all of the randomly generated cities. Each colored dot is a new city and the size of the dot is representative of the city's humidity.
