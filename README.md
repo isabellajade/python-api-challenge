@@ -17,28 +17,28 @@ Below are the final visualizations that compare the different latitudes of rando
 ## Latitude Vs. Wind Speed
 ![Latitude vs Wind Speed](images/Fig4.png)
 
-## Northern Latitude Vs. Max Temperature
+## Northern Hemisphere Vs. Max Temperature
 ![Northern Hemisphere vs Temperature](images/Fig5.PNG)
 
-## Southern Latitude Vs. Max Temperature
+## Southern Hemisphere Vs. Max Temperature
 ![Southern Hemisphere vs Temperature](images/Fig6.PNG)
 
-## Northern Latitude Vs. Humidity
+## Northern Hemisphere Vs. Humidity
 ![Northern Hemisphere vs Humidity](images/Fig7.PNG)
 
-## Southern Latitude Vs. Humidity
+## Southern Hemisphere Vs. Humidity
 ![Southern Hemisphere vs Humidity](images/Fig8.PNG)
 
-## Northern Latitude Vs. Cloudiness
+## Northern Hemisphere Vs. Cloudiness
 ![Northern Hemisphere vs Cloudiness](images/Fig9.PNG)
 
-## Southern Latitude Vs. Cloudiness
+## Southern Hemisphere Vs. Cloudiness
 ![Southern Hemisphere vs Cloudiness](images/Fig10.PNG)
 
-## Northern Latitude Vs. Wind Speed
+## Northern Hemisphere Vs. Wind Speed
 ![Northern Hemisphere vs Wind Speed](images/Fig11.PNG)
 
-## Southern Latitude Vs. Wind Speed
+## Southern Hemisphere Vs. Wind Speed
 ![Southern Hemisphere vs Wind Speed](images/Fig12.PNG)
 
 ## City Map
